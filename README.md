@@ -1,6 +1,15 @@
 # Inequality in Access to Tertiary Education – Evidence from El Salvador
 
+## Project Description
 The aim of this project is to examine how spatial and socioeconomic factors shape inequalities in access to postsecondary education in the Latin American country El Salvador. The study conducts a logistic regression analysis with multiple predictors using data from the 2015 Salvadoran household survey Encuesta de Hogares de Propósitos Múltiples (EHPM). To include spatial context the number of accessible postsecondary institutions and study programs in different time radii are calculated.
+
+## Methods
+
+- Calculation of number of accessible postsecondary institutions and study programs in different time radii using road network data
+- Logistic Regression Model with multiple predictors – including travel time radii – using El Salvador Houshold Survey data (see Stata code here: */calculations/inequ_access2017.do*)
+
+
+
 
 ## Content
 
