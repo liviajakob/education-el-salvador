@@ -13,7 +13,7 @@ The aim of this project is to examine how spatial and socioeconomic factors shap
 
 ## Content
 
- – *Paper__Access_to_Education.pdf* – Academic Paper; explains data, methods and results; Author: Livia Jakob
+– *Paper__Access_to_Education.pdf* – Academic Paper; explains data, methods and results; Author: Livia Jakob
 
 - */calculations* - folder containing data and script for the statistical evaluation
   - *inequ_access2017.do* – Do-file for stata 
