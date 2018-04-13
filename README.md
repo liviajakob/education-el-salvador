@@ -6,10 +6,20 @@ The aim of this project is to examine how spatial and socioeconomic factors shap
 
 - */calculations* - folder containing data and script for the statistical evaluation
   - *inequ_access2017.do* – Do-file for stata 
-  - *traveltime.csv* – Traveltime radii to postsecondary institutions, calculated with ArcGIS. For more information see the paper.
+  - *traveltime.csv* – Traveltime radii to postsecondary institutions, calculated with ArcGIS. E.g. "UNI75" column reprensents how many postsecondary institutions can be reached within 75 minutes travel time. For more information see the paper.
   - *EHPM 2015.DTA.zip* – Household survey data El Salvador, 2015
+  - *postsecodary_institutions.xls* – Spreadsheet containing data on every postsecondary institution in El Salvador. Data collected in January 2017
   
 - */figures* – folder containing figures and diagrams
-  - *school_system.pdf* – Diagram displaying the school system in El Salvador, by Livia Jakob
-  - *traveltime_concept.jpg* – Diagram displaying how the travel times to postsecondary schools are calculated, by Livia Jakob
-  - *travel-time-radii.pdf* – Calculated travel time radii using ArcMap, by Livia Jakob
+  - *school_system.pdf* – Diagram displaying the school system in El Salvador
+  - *traveltime_concept.jpg* – Diagram displaying how the travel times to postsecondary schools are calculated
+  - *travel-time-radii.pdf* – Calculated travel time radii using ArcMap
+  - *travel-distance.pdf* – Diagram displaying travel distance to closest postsecodary institution
+  - *travel_time_one_uni.pdf* – Map displaying the calculated travel time for one university
+  - *road_network.jpg* – Map displaying the road network in El Salvador
+  - *postsecodary_inst.jpg* – Map displaying the postsecondary institutions in El Salvador; split up into public and private institutions
+  
+For figures created with stata see the paper.
+  
+ -*/paper*
+   –*Paper.pdf* – Academic Paper
