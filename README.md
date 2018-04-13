@@ -4,6 +4,8 @@ The aim of this project is to examine how spatial and socioeconomic factors shap
 
 ## Content
 
+ – *Paper.pdf* – Academic Paper, by Livia Jakob
+
 - */calculations* - folder containing data and script for the statistical evaluation
   - *inequ_access2017.do* – Do-file for stata 
   - *traveltime.csv* – Traveltime radii to postsecondary institutions, calculated with ArcGIS. E.g. "UNI75" column reprensents how many postsecondary institutions can be reached within 75 minutes travel time. For more information see the paper.
@@ -21,5 +23,4 @@ The aim of this project is to examine how spatial and socioeconomic factors shap
   
 For figures created with stata see the paper.
   
- -*/paper*
-   –*Paper.pdf* – Academic Paper
+
