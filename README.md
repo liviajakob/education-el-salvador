@@ -16,7 +16,7 @@ The aim of this project is to examine how spatial and socioeconomic factors shap
 - *Paper__Access_to_Education.pdf* – Academic Paper; explains data, methods and results; Author: Livia Jakob
 
 - */calculations* - folder containing data and script for the statistical evaluation
-  - *inequ_access2017.do* – Do-file for stata 
+  - *inequ_access2017.do* – Stata code
   - *traveltime.csv* – Traveltime radii to postsecondary institutions, calculated with ArcGIS. E.g. "UNI75" column reprensents how many postsecondary institutions can be reached within 75 minutes travel time. For more information see the paper.
   - *EHPM 2015.DTA.zip* – Household survey data El Salvador, 2015
   - *postsecodary_institutions.xls* – Spreadsheet containing data on every postsecondary institution in El Salvador. Data collected in January 2017
