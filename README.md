@@ -1,5 +1,6 @@
 # Inequality in Access to Tertiary Education – Evidence from El Salvador
 
+
 ## Project Description
 The aim of this project is to examine how spatial and socioeconomic factors shape inequalities in access to postsecondary education in the Latin American country El Salvador. The study conducts a logistic regression analysis with multiple predictors using data from the 2015 Salvadoran household survey Encuesta de Hogares de Propósitos Múltiples (EHPM). To include spatial context the number of accessible postsecondary institutions and study programs in different time radii are calculated.
 
@@ -24,7 +25,7 @@ The aim of this project is to examine how spatial and socioeconomic factors shap
 - */figures* – folder containing figures and diagrams
   - *school_system.pdf* – Diagram displaying the school system in El Salvador
   - *traveltime_concept.jpg* – Diagram displaying how the travel times to postsecondary schools are calculated
-  - *travel-time-radii.pdf* – Calculated travel time radii using ArcMap
+  - *travel-time-radii.pdf /.png* – Calculated travel time radii using ArcMap
   - *travel-distance.pdf* – Diagram displaying travel distance to closest postsecodary institution
   - *travel_time_one_uni.pdf* – Map displaying the calculated travel time for one university
   - *road_network.jpg* – Map displaying the road network in El Salvador
@@ -36,10 +37,10 @@ For figures created with stata see the paper.
 
 ![Concept of travel time calculation](figures/traveltime_concept.jpg "Concept of travel time calculation")
 
-Concept of how travel time was calculated.
+Figure 1: Concept of how travel time was calculated.
 
 
 ![Travel time calculation](figures/travel-time-radii.png "Travel time calculation")
 
-Calculated travel time radii using ArcMap
+Figure 2: Calculated travel time radii using ArcMap.
 
