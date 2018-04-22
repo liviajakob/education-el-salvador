@@ -32,4 +32,14 @@ The aim of this project is to examine how spatial and socioeconomic factors shap
   
 For figures created with stata see the paper.
   
+## Example Figures
+
+![Concept of travel time calculation](figures/traveltime_concept.jpg "Concept of travel time calculation")
+
+Concept of how travel time was calculated.
+
+
+![Travel time calculation](figures/travel-time-radii.png "Travel time calculation")
+
+Calculated travel time radii using ArcMap
 
